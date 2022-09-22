@@ -1,1 +1,1 @@
-print("Muel")
+class 
